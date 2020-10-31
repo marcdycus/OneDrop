@@ -1,9 +1,8 @@
-// import logo from './logo.svg';
 import './App.css';
-import Table from './components/Table';
+import Products from './components/Products';
 
 function App() {
-  return <Table />;
+  return <Products />;
 }
 
 export default App;
